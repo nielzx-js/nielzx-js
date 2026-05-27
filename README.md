@@ -1,4 +1,4 @@
-# 👨‍💻 Nielson
+# 👨‍💻 José Nielson
 
 Desenvolvedor em aprendizado constante, apaixonado por tecnologia, programação e resolução de problemas.
 
@@ -24,7 +24,7 @@ Desenvolvedor em aprendizado constante, apaixonado por tecnologia, programação
 - 🧠 Foco em Ciência de Dados e Engenharia de Software
 - 📚 Aprendendo React Native, Node.js e Banco de Dados
 - 🎯 Objetivo: evoluir como desenvolvedor Full Stack
-
+- 🧠💻 Matemática Computacional
 ## 📌 Projetos
 - Sistema de biblioteca
 - Apps com login e geolocalização
