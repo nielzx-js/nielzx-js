@@ -31,4 +31,22 @@ Desenvolvedor em aprendizado constante, apaixonado por tecnologia, programação
 - Sistemas web escolares
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nielzx-js&show_icons=true)
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=nielzx-js&show_icons=true&theme=tokyonight&cache_seconds=86400&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nielzx-js&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=nielzx-js&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nielzx-js&color=blueviolet&style=flat-square" alt="profile views"/>
+</p>
