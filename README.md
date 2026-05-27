@@ -31,4 +31,6 @@ Desenvolvedor em aprendizado constante, apaixonado por tecnologia, programação
 - Sistemas web escolares
 
 ## 📊 GitHub Stats
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=nielzx-js&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nielzx-js&show_icons=true&theme=tokyonight"/>
+</p>
