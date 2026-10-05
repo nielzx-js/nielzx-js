@@ -35,8 +35,8 @@ Desenvolvedor em aprendizado constante, apaixonado por tecnologia, programação
 - Sistemas web escolares
 ---
 ## Aplicativos lançados
-App Conexão Egressos - Fase de teste
-<a href="https://movesalut.com" target="_blank" rel="noopener noreferrer">Movesalut</a>   
+App Conexão Egressos - Fase de teste <br>
+<a href="https://movesalut.com" target="_blank" rel="noopener noreferrer">Movesalut</a> - Publico Oficialmente
 ## 📊 GitHub Stats
 
 <div align="center">
