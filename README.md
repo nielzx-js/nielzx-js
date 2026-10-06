@@ -69,16 +69,6 @@ Estudante de Desenvolvimento de Sistemas no **IFAL – Campus Maceió** 🎓, fo
 
 ---
 
-## 📌 Projetos
-
-- 📚 **Sistema de biblioteca**
-- 📍 **Apps com login e geolocalização**
-- 🎮 **Jogos em JavaScript**
-- 🏫 **Sistemas web escolares**
-
-> 💡 Dica: troque os itens acima por links dos repositórios (`[Nome](url)`) e fixe os 6 melhores no seu perfil.
-
----
 
 ## 📈 Em evolução
 
