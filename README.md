@@ -66,6 +66,8 @@ Estudante de Desenvolvimento de Sistemas no **IFAL – Campus Maceió** 🎓, fo
 |---|---|---|
 | [**Movesalut**](https://movesalut.com) | Site para clientes da área de fisioterapia e fitness | ✅ Publicado oficialmente |
 | **App Conexão Egressos** | Aplicativo mobile para conectar egressos | 🧪 Em fase de teste |
+| [**Blacklog**](https://blacklog-nine.vercel.app/jogos) | Lista de jogos com plataforma, status (quero jogar / jogando / zerado) e nota | ✅ No ar |
+| [**Projeto Móvel**](https://projetomovel.vercel.app/) | CRUD de usuários com deploy na Vercel + Neon | ✅ No ar |
 
 ---
 
