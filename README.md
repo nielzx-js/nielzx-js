@@ -18,7 +18,7 @@
 Estudante de Desenvolvimento de Sistemas no **IFAL – Campus Maceió** 🎓, focado em **backend e mobile**. Gosto de construir apps do zero, resolver problemas reais e colocar tudo no ar.
 
 - 📱 Desenvolvo aplicações web e mobile
-- 🛠️ Stack principal: **Node.js, Express, React Native e SQL (MySQL/PostgreSQL)**
+- 🛠️ Stack principal: **Node.js, Express, TypeScript, React Native e SQL (MySQL/PostgreSQL)**
 - ☁️ Deploy com **Vercel** e **Neon**
 - 🌱 Estudando: arquitetura de APIs REST, integração front ↔ back e boas práticas de código
 - 🎯 Objetivo: evoluir como desenvolvedor **Full Stack**
@@ -27,12 +27,13 @@ Estudante de Desenvolvimento de Sistemas no **IFAL – Campus Maceió** 🎓, fo
 
 ## 💻 Tecnologias
 
-**Front-end**
+**Linguagens & Front-end**
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React / React Native"/>
   <img src="https://cdn.simpleicons.org/expo/888888" width="40" title="Expo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" title="Flutter"/>
@@ -71,11 +72,11 @@ Estudante de Desenvolvimento de Sistemas no **IFAL – Campus Maceió** 🎓, fo
 
 ---
 
-
 ## 📈 Em evolução
 
 - 🔄 Desafio pessoal: **um app novo por semana** para praticar integração e manter o GitHub sempre ativo
 - 🧱 Aprofundando em APIs REST com Express + banco SQL
+- 🟦 Migrando projetos para **TypeScript**
 - ⚡ Praticando deploy contínuo com Vercel + Neon
 
 ---
@@ -83,16 +84,20 @@ Estudante de Desenvolvimento de Sistemas no **IFAL – Campus Maceió** 🎓, fo
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nielzx-js&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nielzx-js&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
+  <a href="https://github.com/nielzx-js">
+    <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nielzx-js&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  </a>
+  <a href="https://github.com/nielzx-js">
+    <img height="170" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nielzx-js&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=nielzx-js&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img alt="Streak" src="https://streak-stats.demolab.com/?user=nielzx-js&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nielzx-js&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+  <img alt="Contribuições" src="https://ghchart.rshah.org/6EA8FE/nielzx-js" width="95%" />
 </div>
 
 ---
