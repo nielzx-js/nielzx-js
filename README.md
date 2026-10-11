@@ -5,8 +5,8 @@
 <p>
   <img src="https://img.shields.io/badge/IFAL-Macei%C3%B3-2ea44f?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Foco-Backend%20%26%20Mobile-6EA8FE?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Objetivo-Full%20Stack-orange?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=nielzx-js&label=Visitas&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Objetivo-Full_Stack-orange?style=for-the-badge" alt="Objetivo Full Stack" />
+  <img src="https://hits.sh/github.com/nielzx-js.svg?style=for-the-badge&label=Visitas&color=8a2be2" alt="Visitas" />
 </p>
 
 </div>
