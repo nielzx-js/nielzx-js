@@ -69,7 +69,38 @@ Estudante de Desenvolvimento de Sistemas no **IFAL – Campus Maceió** 🎓, fo
 | **App Conexão Egressos** | Aplicativo mobile para conectar egressos | 🧪 Em fase de teste |
 | [**Blacklog**](https://blacklog-nine.vercel.app/jogos) | Lista de jogos com plataforma, status (quero jogar / jogando / zerado) e nota | ✅ No ar |
 | [**Projeto Móvel**](https://projetomovel.vercel.app/) | CRUD de usuários com deploy na Vercel + Neon | ✅ No ar |
-| [Gerenciador de chamados](https://sistemagerenciadordechamados-jnsb.vercel.app/)|Gerenciador de chamados de manutenção|  ✅ No ar |
+| [**Gerenciador de chamados**](https://sistemagerenciadordechamados-jnsb.vercel.app/) | Gerenciador de chamados de manutenção | ✅ No ar |
+| [**Templates de autenticação**](https://github.com/nielzx-js/templates) | 3 opções de telas de login, cadastro e verificação | ✅ Disponível |
+
+---
+
+## 🎨 Templates de autenticação
+
+Três opções prontas de interface para **login**, **cadastro** e **verificação**, para usar como base em qualquer projeto. 👉 [Ver repositório completo](https://github.com/nielzx-js/templates)
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/nielzx-js/templates/tree/main/template1">
+        <img src="https://github.com/nielzx-js/templates/raw/main/t1-imgs/login-template1.jpg" alt="Template 1 - Login" />
+      </a>
+      <br /><b>Template 1</b><br /><sub>Escuro e minimalista, com destaque roxo</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/nielzx-js/templates/tree/main/template2">
+        <img src="https://github.com/nielzx-js/templates/raw/main/t2-imgs/login-template2.jpg" alt="Template 2 - Login" />
+      </a>
+      <br /><b>Template 2</b><br /><sub>Claro e limpo, com cartão central</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/nielzx-js/templates/tree/main/template3">
+        <img src="https://github.com/nielzx-js/templates/raw/main/t3-imgs/login-template3.jpg" alt="Template 3 - Login" />
+      </a>
+      <br /><b>Template 3</b><br /><sub>Estilo dev, escuro com detalhes em verde</sub>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 📈 Em evolução
@@ -106,6 +137,8 @@ Estudante de Desenvolvimento de Sistemas no **IFAL – Campus Maceió** 🎓, fo
 
 <p align="left">
   <a href="https://github.com/nielzx-js"><img src="https://img.shields.io/badge/GitHub-nielzx--js-181717?style=for-the-badge&logo=github" /></a>
+  <a href="mailto:josenielson990@gmail.com"><img src="https://img.shields.io/badge/Email-josenielson990@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jose-nielson-15898830b/"><img src="https://img.shields.io/badge/LinkedIn-José%20Nielson-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/j.nielson_"><img src="https://img.shields.io/badge/Instagram-@j.nielson__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
