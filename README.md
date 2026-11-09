@@ -74,6 +74,15 @@ Estudante de Desenvolvimento de Sistemas no **IFAL – Campus Maceió** 🎓, fo
 
 ---
 
+## 🚧 Em Desenvolvimento
+
+| Projeto | Descrição | Status |
+|---|---|---|
+| [**ToDo Niel**](https://todo-niel.vercel.app/) | Aplicação robusta de To-Do list com suporte à organização por grupos e tarefas avançadas | 🛠️ Em desenvolvimento |
+| [**Arduino Connector**](https://arduino-jnsb.vercel.app/) | Projeto de integração e controle via web com Arduino | 🛠️ Em desenvolvimento |
+
+---
+
 ## 🎨 Templates de autenticação
 
 Três opções prontas de interface para **login**, **cadastro** e **verificação**, para usar como base em qualquer projeto. 👉 [Ver repositório completo](https://github.com/nielzx-js/templates)
